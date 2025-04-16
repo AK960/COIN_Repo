@@ -1,0 +1,15 @@
+[CREDS]
+# Personal X user credentials
+X_USERNAME = myUsername
+X_PASSWORD = myPassword
+X_EMAIL = my@email.com
+
+[API]
+# User name and password when making API request
+API_KEY = my_apiKey
+API_KEY_SECRET = my_apiKeySecret
+# Access Token and Secret: User spec creds to authenticate 0Auth 1.0a API requests (specify X account that makes request)
+ACCESS_TOKEN = my_accessToken
+ACCESS_TOKEN_SECRET = my_accessTokenSecret
+# Bearer Token: authenticates requests on behalf of your developer app
+BEARER_TOKEN = my_bearerToken
