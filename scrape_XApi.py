@@ -10,9 +10,12 @@ from configparser import ConfigParser
 from random import randint
 from pprint import pprint
 
-# Vars
-min_tweets = 5
-query = 'elonmusk'
+# Input Vars
+query = "from:elonmusk since:2023-05-01 until:2025-05-01"
+url = "https://api.twitterapi.io/twitter/tweet/advanced_search"
+
+# Output Vars
+tweets = []
 
 async def main():
     try:
@@ -24,10 +27,8 @@ async def main():
         api_key = config['TWITTERAPI']['API_KEY']
 
         try:
-            query = "from:elonmusk since:2023-05-01 until:2025-05-01"
-            url = "https://api.twitterapi.io/twitter/tweet/advanced_search"
             headers = {'x-api-key': api_key}
-            response = requests.get(url, headers=headers)
+            response = requests.get(url, headers=headers, params={'query': query})
             response_dict = response.json()
             response_out = json.dumps(response_dict, indent=4)
 
