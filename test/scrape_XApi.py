@@ -11,7 +11,7 @@ from random import randint
 DEBUG_MODE = True
 
 # Input Vars
-query = {"userName": "elonmusk"} #until:2025-05-01"
+query = "from:elonmusk since:2024-01-01 until:2024-04-30 -is:retweet"
 url = "https://api.twitterapi.io/twitter/tweet/advanced_search"
 querytype = "latest"
 
@@ -42,52 +42,60 @@ try:
 
         print('Starting request loop ...')
         while True:
-
             response = requests.request(
                 "GET",
                 url,
-                headers=headers,
-                params={'query': query,
-                        'queryType': querytype,
-                        'cursor': cursor
-                        }
+                headers={
+                    'x-api-key': '1228af8618b940f9a522eac41b970288',
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                params={
+                    'query': query,
+                    'queryType': querytype,
+                    'cursor': cursor
+                }
             )
-            print(response.text[:500])
+            if response.status_code == 200:
+                # debugging infos
+                print(f"Status Code: {response.status_code}")
+                print(f"Response Headers: {response.headers}")
 
-            # debugging infos
-            print(f"Status Code: {response.status_code}")
-            print(f"Response Headers: {response.headers}")
-            print(f"Response Content: {response.text[:500]}...")  # Erste 500 Zeichen
-            # throw exception for http error
-            response.raise_for_status()
+                # throw exception for http error
+                response.raise_for_status()
 
-            # debug keys
-            data = response.json()
-            print(f"Response data keys: {data.keys()}")
+                # debug keys
+                data = response.json()
+                tweets = data.get('tweets', [])
+                all_tweets.extend(tweets)
+                tweet_count = len(all_tweets)
+                print(f"Response data keys: {data.keys()}")
+                print(f"Anzahl gefundener Tweets: {len(tweets)}")
 
-            # debug tweet count
-            tweets = data.get('tweets', [])
-            print(f"Anzahl gefundener Tweets: {len(tweets)}")
+                if DEBUG_MODE:
+                    print(f'DEBUG_MODE active: stopping after first page. Got {tweet_count} tweets.')
+                    print(f'Full API Response: {json.dumps(data, indent=2)}')
+                    break
 
-            all_tweets.extend(tweets)
+                if not data.get('nextCursor'):
+                    print(f'Got {tweet_count} tweets. Finished.')
+                    break
 
-            tweet_count = len(all_tweets)
+                # set cursor to the next page
+                cursor = data.get('nextCursor')
 
-            if DEBUG_MODE:
-                print(f'DEBUG_MODE active: stopping after first page. Got {tweet_count} tweets.')
-                print(f'Full API Response: {json.dumps(data, indent=2)}')
-                break
+                # wait random time to avoid rate limits
+                print(f'Got {tweet_count} tweets. Sleeping random time ...')
+                time.sleep(randint(1, 5))
 
-            if not data.get('nextCursor'):
-                print(f'Got {tweet_count} tweets. Finished.')
-                break
-
-            # set cursor to the next page
-            cursor = data.get('nextCursor')
-
-            # wait random time to avoid rate limits
-            print(f'Got {tweet_count} tweets. Sleeping random time ...')
-            time.sleep(randint(1, 5))
+            else:
+                print("Received empty response:")
+                # debugging infos
+                print(f"Status Code: {response.status_code}")
+                print(f"Response Headers: {response.headers}")
+                print(f"Response Content: {response.text[:500]}...")
+                print("Exiting ...")
+                exit()
 
 except Exception as e:
     print('Failed to get and process tweets. Exit with error:')
@@ -97,7 +105,7 @@ except Exception as e:
 try:
     print('Converting to file ...')
 
-    filepath = "res/tweets.csv"
+    filepath = "../res/tweets.csv"
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
 
     existing_ids = set()
@@ -150,4 +158,3 @@ try:
 except Exception as e:
     print('Failed to convert tweets to file. Exit with error:')
     print(e)
-
