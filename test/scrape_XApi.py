@@ -105,7 +105,7 @@ except Exception as e:
 try:
     print('Converting to file ...')
 
-    filepath = "../res/tweets.csv"
+    filepath = "../data/twitter/tweets.csv"
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
 
     existing_ids = set()
