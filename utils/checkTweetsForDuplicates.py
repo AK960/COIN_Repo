@@ -1,6 +1,6 @@
 import pandas as pd
 
-def check_duplicate_ids(csv_file_path):
+def DuplicateFinder(csv_file_path):
     # Reading file
     df = pd.read_csv(csv_file_path)
 
