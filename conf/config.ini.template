@@ -17,3 +17,6 @@ DEV_BEARER_TOKEN = my_dev_bearerToken
 [TWITTERAPI]
 USER_ID = my_userId
 API_KEY = my_apiKey
+
+[Alpha_Vantage_API]
+api_key = av_api_key
