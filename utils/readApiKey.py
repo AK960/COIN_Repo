@@ -31,12 +31,12 @@ def ReadApiKey() -> Optional[str]:
         if 'TWITTERAPI' not in config:
             raise KeyError("Section 'TWITTERAPI' not found in config file.")
 
-        api_key = config['TWITTERAPI']['API_KEY']
+        api_key = config['TWITTERAPI2']['API_KEY']
 
         if not api_key:
             raise ValueError("API Key not found in config file.")
 
-        print(f"[ReadApiKey][Info] API Key gefunden: [{api_key[:5]}...]")
+        print(f"[ReadApiKey][Info] API Key gefunden: [{api_key[-10:]}...]")
         return api_key
 
     except FileNotFoundError as e:
