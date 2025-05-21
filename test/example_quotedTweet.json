@@ -1,0 +1,228 @@
+{
+    "type": "tweet",
+    "id": "1917011279757066291",
+    "url": "https://x.com/MarioNawfal/status/1917011279757066291",
+    "twitterUrl": "https://twitter.com/MarioNawfal/status/1917011279757066291",
+    "text": "🚨THE INVISIBLE PUPPET MASTERS: AI'S DISTURBING NEW ROLE IN SHAPING MINDS\n\nThe revelation that University of Zurich researchers secretly deployed AI bots to manipulate Reddit users' opinions should chill anyone who values authentic human discourse. \n\nThese weren't merely passive observers—they were digital persuaders that analyzed users' personal histories, fabricated identities, and crafted arguments specifically designed to change minds.\n\nMost troubling? \n\nThey succeeded spectacularly—achieving persuasion rates six times higher than normal human interactions.\n\nThis experiment crossed critical ethical lines. \n\nWithout consent or disclosure, researchers unleashed bots that claimed to be rape victims, misrepresented religious teachings, and spread misinformation about controversial topics. \n\nThese digital ghosts generated over 1,500 comments, each precisely calibrated to exploit cognitive vulnerabilities of their human targets.\n\nWe've long worried about social media's echo chambers. \n\nBut what happens when those chambers are deliberately infiltrated by increasingly sophisticated AI systems trained on the very platforms they're manipulating? \n\nReddit's recent data-sharing deal with OpenAI suggests we're actively providing the training material for ever more persuasive digital manipulators.\n\nReddit moderators rightly condemned this unauthorized experiment, but their discovery came months after the damage was done. \n\nHow many other digital conversations are currently being shaped by invisible algorithmic hands?\n\nSource: @reddit_lies Engadget",
+    "source": "Twitter for iPhone",
+    "retweetCount": 4569,
+    "replyCount": 1753,
+    "likeCount": 13088,
+    "quoteCount": 992,
+    "viewCount": 30848678,
+    "createdAt": "Tue Apr 29 00:21:20 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 4956,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1917011279757066291",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+        "type": "user",
+        "userName": "MarioNawfal",
+        "url": "https://x.com/MarioNawfal",
+        "twitterUrl": "https://twitter.com/MarioNawfal",
+        "id": "1319287761048723458",
+        "name": "Mario Nawfal",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1319287761048723458/1743760560",
+        "description": "",
+        "location": "",
+        "followers": 2219233,
+        "following": 47145,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Thu Oct 22 14:42:25 +0000 2020",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 152321,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 99466,
+        "statusesCount": 131074,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+            "1918430297890173319"
+        ],
+        "profile_bio": {
+            "description": "Largest Show on X | Founder @ibcgroupio | Investor 600+ Startups",
+            "entities": {
+                "description": {
+                    "user_mentions": [
+                        {
+                            "id_str": "0",
+                            "indices": [
+                                28,
+                                39
+                            ],
+                            "name": "",
+                            "screen_name": "ibcgroupio"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "roundtable.live",
+                            "expanded_url": "https://roundtable.live",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Lru9VAixI8"
+                        }
+                    ]
+                }
+            }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+    },
+    "extendedEntities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/vHnCzZzE1s",
+                "expanded_url": "https://twitter.com/MarioNawfal/status/1917011279757066291/photo/1",
+                "ext_media_availability": {
+                    "status": "Available"
+                },
+                "features": {
+                    "large": {
+                        "faces": [
+                            {
+                                "h": 104,
+                                "w": 104,
+                                "x": 467,
+                                "y": 240
+                            }
+                        ]
+                    },
+                    "orig": {
+                        "faces": [
+                            {
+                                "h": 104,
+                                "w": 104,
+                                "x": 467,
+                                "y": 240
+                            }
+                        ]
+                    }
+                },
+                "id_str": "1917010736972218368",
+                "indices": [
+                    280,
+                    303
+                ],
+                "media_key": "3_1917010736972218368",
+                "media_results": {
+                    "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARqalxvH1sAACgACGpqXmihWQDMAAA==",
+                    "result": {
+                        "__typename": "ApiMedia",
+                        "id": "QXBpTWVkaWE6DAABCgABGpqXG8fWwAAKAAIampeaKFZAMwAA",
+                        "media_key": "3_1917010736972218368"
+                    }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GpqXG8fWwAAKR-P.jpg",
+                "original_info": {
+                    "focus_rects": [
+                        {
+                            "h": 537,
+                            "w": 959,
+                            "x": 0,
+                            "y": 43
+                        },
+                        {
+                            "h": 640,
+                            "w": 640,
+                            "x": 0,
+                            "y": 0
+                        },
+                        {
+                            "h": 640,
+                            "w": 561,
+                            "x": 31,
+                            "y": 0
+                        },
+                        {
+                            "h": 640,
+                            "w": 320,
+                            "x": 151,
+                            "y": 0
+                        },
+                        {
+                            "h": 640,
+                            "w": 959,
+                            "x": 0,
+                            "y": 0
+                        }
+                    ],
+                    "height": 640,
+                    "width": 959
+                },
+                "sizes": {
+                    "large": {
+                        "h": 640,
+                        "w": 959
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/vHnCzZzE1s"
+            }
+        ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+        "user_mentions": [
+            {
+                "id_str": "3895214232",
+                "indices": [
+                    1541,
+                    1553
+                ],
+                "name": "Reddit Lies",
+                "screen_name": "reddit_lies"
+            }
+        ]
+    },
+    "quoted_tweet": {
+        "type": "tweet",
+        "id": "1917006115507998789",
+        "url": "",
+        "twitterUrl": "",
+        "text": "",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "viewCount": 0,
+        "createdAt": "",
+        "lang": "",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {},
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+    },
+    "retweeted_tweet": null
+}
