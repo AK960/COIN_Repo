@@ -1,0 +1,64 @@
+// Two options in entities in data, either (1) urls or (2) user_mentions
+{
+  "entities": [
+    {
+      "urls": [
+        {
+          "display_url": "x.com/i/grok/share/4…",
+          "expanded_url": "https://x.com/i/grok/share/4z3E2VRhf3XWUvyYjHULYz52H",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/J1KS6bJdjD"
+        }
+      ]
+    },
+    {
+      "urls": [
+        {
+          "display_url": "grok.com/share/bGVnYWN5…",
+          "expanded_url": "https://grok.com/share/bGVnYWN5_6c02cbf3-ea84-40c7-bc25-1f5d28d98840",
+          "indices": [
+            152,
+            175
+          ],
+          "url": "https://t.co/p5MkvQ4tJX"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1551266822460162051",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee"
+        }
+      ]
+    },
+    {
+      "user_mentions": [
+        {
+          "id_str": "107547195",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Michel",
+          "screen_name": "micmat02"
+        },
+        {
+          "id_str": "243013409",
+          "indices": [
+            10,
+            24
+          ],
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt"
+        }
+      ]
+    }
+  ]
+}

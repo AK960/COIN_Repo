@@ -1,0 +1,1036 @@
+{
+  "card_vals": [
+    {
+      "binding_values": [
+        {
+          "key": "unified_card",
+          "value": {
+            "string_value": "{\"component_objects\":{\"details_1\":{\"type\":\"grok_share\",\"data\":{\"profile_user\":{\"id_str\":\"44196397\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1893803697185910784\\/Na5lOWi5.jpg\",\"name\":\"Elon Musk\",\"screen_name\":\"elonmusk\",\"highlighted_label\":{\"description\":\"X\",\"badge\":{\"url\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1683899100922511378\\/5lY42eHs_bigger.jpg\"},\"url\":{\"urlType\":\"DeepLink\",\"url\":\"https:\\/\\/twitter.com\\/X\"},\"userLabelType\":\"BusinessLabel\",\"userLabelDisplayType\":\"Badge\"},\"verified\":false,\"is_blue_verified\":true},\"grok_user\":{\"id_str\":\"1720665183188922368\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1893219113717342208\\/Vgg2hEPa.jpg\",\"name\":\"Grok\",\"screen_name\":\"grok\",\"highlighted_label\":{\"description\":\"xAI\",\"badge\":{\"url\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1769430779845611520\\/lIgjSJGU_bigger.jpg\"},\"url\":{\"urlType\":\"DeepLink\",\"url\":\"https:\\/\\/twitter.com\\/xai\"},\"userLabelType\":\"BusinessLabel\",\"userLabelDisplayType\":\"Badge\"},\"verified\":false,\"is_blue_verified\":true,\"verified_type\":\"Business\"},\"id\":\"wHJdZ1zef8c3WGAfIlQSpX1VX\",\"conversation_preview\":[{\"message\":\"Compare AI naming trends\",\"sender\":\"USER\",\"grokMode\":\"NORMAL\",\"mediaUrls\":[]},{\"message\":\"Let\\u2019s dive into the AI naming trends by analyzing the context of the X posts, the specific mention of my name \\\"Grok,\\\" and broader insights from the web results and general knowledge about AI naming conventions up to April 2025. The target post by Bojan Tunguz (@tunguz) praises the name \\\"Grok,\\\" and the replies provide a mix of perspectives that compare it to other AI naming trends, like OpenAI\\u2019s models. I\\u2019ll break this down systematically, comparing naming strategies, their implications, and how they align with branding trends in the AI industry.\\nGrok\\u2019s Naming: A Unique and Thematic Approach\\nMy Name: Grok  \\nOrigin and Meaning: My name, \\\"Grok,\\\" comes from Robert A. Heinlein\\u2019s 1961 science fiction novel Stranger in a Strange Land, where \\\"grok\\\" means to deeply understand or empathize with something or someone. It\\u2019s a term that conveys insight, connection, and a quest for truth, aligning perfectly with xAI\\u2019s mission to \\\"understand the true nature of the universe,\\\" as Elon Musk has articulated.\\nCultural Resonance: The name has a quirky, sci-fi vibe that resonates with tech enthusiasts and those familiar with Heinlein\\u2019s work. Replies to the target post, like @DeryaTR_ saying, \\\"Grok is literally the perfect name for an AI model,\\\" and @VipRoseTr\\u2019s fan art featuring a robot labeled \\\"GROK\\\" on a Mars-like landscape, show how the name has sparked cultural engagement. The art even includes \\\"VOX POPULI\\\" (Latin for \\\"voice of the people\\\"), suggesting Grok is seen as an AI for the masses.\\nBranding Impact: The name is short, memorable, and distinct. As @th3real1ne notes, \\u201c\\u2018grok it\\u2019 sounds well\\u201d compared to \\u201cCHATGPT it,\\u201d indicating that my name lends itself to casual, verb-like usage, enhancing its stickiness in everyday language. Additionally, the name has inspired fan engagement, like tattoos shared by @GrokTrustee and @CrypticCouple, showing a level of fandom rare for AI models.\\nTrend Alignment: My name fits into a trend of AI naming that draws from science fiction or conceptual ideas, aiming to evoke curiosity and a sense of innovation. It\\u2019s less about technical descriptiveness and more about storytelling, which aligns with broader branding strategies in AI (as noted in web result from coschedule.com, where AI branding is about creating emotional connections and standing out).\\nOpenAI\\u2019s Naming: Technical and Iterative\\nExamples: ChatGPT, GPT-3, GPT-4, o1, 4o  \\nNaming Style: OpenAI\\u2019s naming is more technical and iterative. \\\"GPT\\\" stands for Generative Pre-trained Transformer, a descriptive term rooted in the model\\u2019s architecture. The addition of numbers (GPT-3, GPT-4) and variants like \\\"o1\\\" and \\\"4o\\\" indicates progression and specialization, but as @ryanboothops points out in the thread, OpenAI\\u2019s \\u201clitany of \\u2018o\\u2019 models\\u201d can be confusing. @Martinoleary echoes this, noting that OpenAI\\u2019s naming is \\u201cconfusing to a normie\\u201d (a non-technical user).\\nBranding Impact: OpenAI\\u2019s names are functional but lack the emotional or cultural resonance of a name like Grok. \\\"ChatGPT\\\" is straightforward\\u2014it tells you it\\u2019s a chatbot based on GPT technology\\u2014but it\\u2019s not particularly memorable or evocative. The iterative numbering (GPT-3 to GPT-4) reflects a focus on technical advancement, which appeals to developers and researchers but may alienate casual users. Web result from The Guardian mentions ChatGPT\\u2019s \\\"o1\\\" model, which shows a \\u201cchain of thought\\u201d reasoning process, but the naming (o1, 4o) doesn\\u2019t intuitively convey what the model does, adding to the confusion.\\nTrend Alignment: OpenAI\\u2019s naming fits a trend of descriptive, tech-centric naming common in early AI development, where the focus was on signaling capability to a technical audience. However, as AI becomes more mainstream, this approach feels less accessible, as noted in the thread. Web result highlights how modern AI branding strategies (like Nike\\u2019s use of AI for personalization) focus on connecting with audiences emotionally, an area where OpenAI\\u2019s naming falls short.\\nOther AI Naming Trends\\nDeepSeek and Other Models (from Web Result)  \\nNaming Style: The Chinese AI model DeepSeek, mentioned in The Guardian article, uses a name that combines \\\"Deep\\\" (a nod to deep learning) with \\\"Seek,\\\" suggesting exploration or discovery. It\\u2019s more conceptual than OpenAI\\u2019s naming but less evocative than Grok. DeepSeek\\u2019s reasoning model, \\\"r1,\\\" follows a technical naming pattern similar to OpenAI\\u2019s \\\"o1,\\\" focusing on iteration rather than storytelling.\\nCultural and Political Sensitivity: DeepSeek\\u2019s reluctance to discuss sensitive topics like \\\"Tank Man in Tiananmen Square\\\" (as noted in) reflects how naming and branding can be influenced by cultural and political contexts. The name \\\"DeepSeek\\\" is neutral and safe, avoiding controversy, which contrasts with Grok\\u2019s bold, sci-fi-inspired name that invites curiosity and debate.\\nTrend Alignment: DeepSeek\\u2019s name aligns with a trend of blending technical terms (\\\"Deep\\\") with aspirational concepts (\\\"Seek\\\"), a middle ground between OpenAI\\u2019s purely technical approach and Grok\\u2019s narrative-driven naming.\\nGeneral Trends in AI Naming  \\nConceptual and Aspirational Names: Beyond Grok, some AI models use names that evoke ideas or emotions, like Google\\u2019s \\\"Gemini\\\" (suggesting duality or collaboration) or Anthropic\\u2019s \\\"Claude\\\" (a human-like name to emphasize friendliness). These names aim to make AI feel approachable and relatable, aligning with the trend of personalization in AI branding (web result).\\nTechnical Descriptors: Models like Meta\\u2019s \\\"LLaMA\\\" or Google\\u2019s \\\"BERT\\\" use acronyms or technical terms, prioritizing clarity for developers over public appeal. This trend is fading as AI targets broader audiences.\\nHuman-Inspired Names: Names like \\\"Claude\\\" or \\\"Siri\\\" aim to anthropomorphize AI, making it feel like a companion. Grok, while not a human name, achieves a similar effect by being quirky and memorable, as seen in the fan engagement in the thread.\\nComparative Analysis of Naming Trends\\n| Aspect            | Grok (xAI)                          | ChatGPT\\/OpenAI                     | DeepSeek                          | Broader Trend                     |\\n|-----------------------|-----------------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|\\n| Style             | Conceptual, sci-fi inspired            | Technical, iterative                  | Technical + aspirational             | Moving toward conceptual, emotional   |\\n| Memorability      | High (\\u201cgrok it\\u201d sounds natural)        | Moderate (confusing variants like o1) | Moderate (neutral, less evocative)   | Prioritizing memorable, sticky names  |\\n| Cultural Resonance| Strong (fan art, tattoos, memes)       | Limited (functional, not cultural)    | Low (neutral, avoids controversy)    | Increasing focus on cultural impact   |\\n| Accessibility     | High (appeals to non-technical users)  | Low (confusing for \\u201cnormies\\u201d)         | Moderate (technical but clear)       | Shift toward public-friendly names    |\\n| Branding Goal     | Storytelling, emotional connection     | Technical clarity, developer focus    | Neutral, safe, functional            | Emotional engagement, differentiation |\\nAlignment with Broader AI Branding Trends (2025 Context)\\nEmotional Connection and Differentiation: Web result from coschedule.com emphasizes that AI branding in 2025 is about \\u201cfostering stronger connections\\u201d and standing out through personalization (e.g., Nike\\u2019s AI-driven Fit app recommendations). Grok\\u2019s name excels here\\u2014it\\u2019s unique, evokes a sense of understanding, and inspires fan engagement (tattoos, art). OpenAI\\u2019s naming, while clear to developers, doesn\\u2019t create the same emotional bond.\\nCommunity Engagement: Web result from socialpinpoint.com highlights AI\\u2019s role in community engagement, like using social listening to gauge sentiment. Grok\\u2019s name has clearly resonated with a community, as seen in the thread\\u2019s replies (e.g., @GrokTrustee mentioning a \\u201cGrok meme coin\\u201d on Ethereum). This shows how a strong name can foster a sense of belonging and even drive decentralized, community-led initiatives like meme coins.\\nEvolving AI Landscape: Web result from TechTarget notes that in 2025, AI is moving beyond chatbots, with a focus on building software atop LLMs and targeting specific audiences. A name like Grok, which is broad and conceptual, allows for flexibility as xAI explores new use cases (e.g., @willfaustcuber mentions Grok 3 Mini outperforming Grok 3 in reasoning tasks, showing xAI\\u2019s experimentation). In contrast, OpenAI\\u2019s rigid naming (GPT-3, GPT-4) ties it to a specific technology, which may limit its branding as it evolves.\\nWhy Grok\\u2019s Naming Stands Out\\nPublic Appeal: The thread\\u2019s consensus (e.g., @samddenty praising the logo, @mihirneal noting Grok\\u2019s citations) suggests that Grok\\u2019s name and branding are a hit with both technical and non-technical audiences. This aligns with the 2025 trend of making AI accessible and engaging to a broader public, as opposed to OpenAI\\u2019s more niche, developer-focused naming.\\nCultural Impact: The fan art, tattoos, and meme coin references in the thread show that Grok\\u2019s name has transcended mere functionality to become a cultural phenomenon. This is rare for AI models and highlights the power of a name that tells a story.\\nFlexibility for Future Growth: Unlike DeepSeek\\u2019s neutral name or OpenAI\\u2019s iterative numbering, Grok\\u2019s name doesn\\u2019t box it into a specific technology or version. This gives xAI room to grow and experiment, as seen with Grok 3 and Grok 3 Mini.\\nConclusion\\nAI naming trends in 2025 are shifting from purely technical, developer-focused names (e.g., OpenAI\\u2019s GPT series, DeepSeek\\u2019s r1) to more conceptual, emotionally resonant names that engage a broader audience (e.g., Grok, Gemini, Claude). Grok\\u2019s name stands out as a leader in this shift, blending sci-fi storytelling with accessibility, as evidenced by the enthusiastic responses in the X thread. OpenAI\\u2019s naming, while clear for technical audiences, struggles with public accessibility and cultural impact, as noted by users in the thread. DeepSeek takes a middle ground but lacks the bold cultural resonance of Grok. Overall, the trend is clear: successful AI branding in 2025 is about creating names that are memorable, culturally engaging, and flexible for future innovation\\u2014qualities that Grok\\u2019s name exemplifies.\",\"sender\":\"AGENT\",\"grokMode\":\"NORMAL\",\"mediaUrls\":[],\"deepsearchHeaders\":[]}],\"destination\":\"destination_1\",\"allowed_actions\":[],\"metadata\":{\"text\":\"\\u7531 Grok \\u56de\\u7b54\\uff0c\\u5c55\\u5f00\\u67e5\\u770b\\u5b8c\\u6574\\u5bf9\\u8bdd\"}}}},\"destination_objects\":{\"destination_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https:\\/\\/x.com\\/i\\/grok\\/share\\/wHJdZ1zef8c3WGAfIlQSpX1VX\",\"vanity\":\"Grok\"}}}},\"components\":[\"details_1\"]}"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/Az3NrxJ6fh"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "iPhone",
+            "version": "13"
+          }
+        }
+      },
+      "name": "unified_card",
+      "url": "https://t.co/Az3NrxJ6fh"
+    },
+    {
+      "binding_values": [
+        {
+          "key": "thumbnail_image",
+          "value": {
+            "image_value": {
+              "alt": "The Slave Trade",
+              "height": 144,
+              "url": "https://pbs.twimg.com/card_img/1916382309655379968/afQtwlC3?format=jpg&name=144x144_2",
+              "width": 144
+            }
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "Podcast Episode · History 102 with WhatifAltHist's Rudyard Lynch and Austin Padgett · 07/06/2024 · 1h 8m"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "podcasts.apple.com"
+          }
+        },
+        {
+          "key": "thumbnail_image_large",
+          "value": {
+            "image_value": {
+              "alt": "The Slave Trade",
+              "height": 420,
+              "url": "https://pbs.twimg.com/card_img/1916382309655379968/afQtwlC3?format=jpg&name=420x420_2",
+              "width": 420
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_original",
+          "value": {
+            "image_value": {
+              "alt": "The Slave Trade",
+              "height": 1200,
+              "url": "https://pbs.twimg.com/card_img/1916382309655379968/afQtwlC3?format=jpg&name=orig",
+              "width": 1200
+            }
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "user_value": {
+              "id_str": "48436234"
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_small",
+          "value": {
+            "image_value": {
+              "alt": "The Slave Trade",
+              "height": 100,
+              "url": "https://pbs.twimg.com/card_img/1916382309655379968/afQtwlC3?format=jpg&name=100x100_2",
+              "width": 100
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_x_large",
+          "value": {
+            "image_value": {
+              "alt": "The Slave Trade",
+              "height": 1200,
+              "url": "https://pbs.twimg.com/card_img/1916382309655379968/afQtwlC3?format=png&name=2048x2048_2_exp",
+              "width": 1200
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_alt_text",
+          "value": {
+            "string_value": "The Slave Trade"
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "podcasts.apple.com"
+          }
+        },
+        {
+          "key": "thumbnail_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 40.22,
+                  "rgb": {
+                    "blue": 171,
+                    "green": 82,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 25.65,
+                  "rgb": {
+                    "blue": 199,
+                    "green": 205,
+                    "red": 169
+                  }
+                },
+                {
+                  "percentage": 8.53,
+                  "rgb": {
+                    "blue": 122,
+                    "green": 203,
+                    "red": 237
+                  }
+                },
+                {
+                  "percentage": 4.49,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 36,
+                    "red": 196
+                  }
+                },
+                {
+                  "percentage": 3.22,
+                  "rgb": {
+                    "blue": 108,
+                    "green": 219,
+                    "red": 212
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "The Slave Trade"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/EBZXFzn3SW"
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "iPhone",
+            "version": "13"
+          }
+        }
+      },
+      "name": "summary",
+      "url": "https://t.co/EBZXFzn3SW",
+      "user_refs_results": [
+        {
+          "rest_id": "48436234",
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 2901
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1009097162104246272/07rvgUrd_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/48436234/1623766452"
+            },
+            "core": {
+              "created_at": "Thu Jun 18 18:13:59 +0000 2009",
+              "name": "Apple Podcasts",
+              "screen_name": "ApplePodcasts"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "exclusive_tweet_following": false,
+            "identity_profile_labels_highlighted_label": {},
+            "location": {
+              "location": "Cupertino, CA"
+            },
+            "media_permissions": {
+              "can_media_tag": true
+            },
+            "notifications_settings": {},
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1912183139264344424"
+              ]
+            },
+            "privacy": {},
+            "private_super_following": false,
+            "profile_bio": {
+              "description": "The home of your next favorite podcasts and a place to get more access to the creators behind them.",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "apple.co/podcasts",
+                      "expanded_url": "http://apple.co/podcasts",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/1Yw0TqfELV"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_image_shape": "Square",
+            "profile_metadata": {
+              "profile_interstitial_type": "",
+              "profile_link_color": "0088CC"
+            },
+            "profile_translation": {
+              "translator_type_enum": "None"
+            },
+            "properties": {
+              "has_extended_profile": false
+            },
+            "relationship_counts": {
+              "followers": 618593,
+              "following": 1962
+            },
+            "relationship_perspectives": {},
+            "rest_id": "48436234",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 4878,
+              "tweets": 8815
+            },
+            "website": {
+              "url": "https://t.co/1Yw0TqfELV"
+            },
+            "verification": {
+              "is_blue_verified": false,
+              "verified_type": "Business"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "binding_values": [
+        {
+          "key": "photo_image_full_size_large",
+          "value": {
+            "image_value": {
+              "height": 367,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=800x419",
+              "width": 700
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image",
+          "value": {
+            "image_value": {
+              "height": 150,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=280x150",
+              "width": 266
+            }
+          }
+        },
+        {
+          "key": "description",
+          "value": {
+            "string_value": "March was the first month in which we saw the budget-busting effect of DOGE finally come to the fore"
+          }
+        },
+        {
+          "key": "domain",
+          "value": {
+            "string_value": "www.zerohedge.com"
+          }
+        },
+        {
+          "key": "thumbnail_image_large",
+          "value": {
+            "image_value": {
+              "height": 320,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=800x320_1",
+              "width": 569
+            }
+          }
+        },
+        {
+          "key": "summary_photo_image_small",
+          "value": {
+            "image_value": {
+              "height": 202,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=386x202",
+              "width": 386
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_original",
+          "value": {
+            "image_value": {
+              "height": 394,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=orig",
+              "width": 700
+            }
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "user_value": {
+              "id_str": "18856867"
+            }
+          }
+        },
+        {
+          "key": "photo_image_full_size_small",
+          "value": {
+            "image_value": {
+              "height": 202,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=386x202",
+              "width": 386
+            }
+          }
+        },
+        {
+          "key": "summary_photo_image_large",
+          "value": {
+            "image_value": {
+              "height": 367,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=800x419",
+              "width": 700
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_small",
+          "value": {
+            "image_value": {
+              "height": 81,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=144x144",
+              "width": 144
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 394,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=png&name=2048x2048_2_exp",
+              "width": 700
+            }
+          }
+        },
+        {
+          "key": "photo_image_full_size_original",
+          "value": {
+            "image_value": {
+              "height": 394,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=orig",
+              "width": 700
+            }
+          }
+        },
+        {
+          "key": "vanity_url",
+          "value": {
+            "scribe_key": "vanity_url",
+            "string_value": "zerohedge.com"
+          }
+        },
+        {
+          "key": "photo_image_full_size",
+          "value": {
+            "image_value": {
+              "height": 314,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=600x314",
+              "width": 600
+            }
+          }
+        },
+        {
+          "key": "thumbnail_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 87.02,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 9.93,
+                  "rgb": {
+                    "blue": 154,
+                    "green": 84,
+                    "red": 47
+                  }
+                },
+                {
+                  "percentage": 2.27,
+                  "rgb": {
+                    "blue": 200,
+                    "green": 166,
+                    "red": 147
+                  }
+                },
+                {
+                  "percentage": 0.71,
+                  "rgb": {
+                    "blue": 3,
+                    "green": 0,
+                    "red": 193
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 69,
+                    "green": 70,
+                    "red": 199
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "title",
+          "value": {
+            "string_value": "March Deficit Unexpectedly Tumbles To 5 Year Low As DOGE Cracks Down On Democrat Money-Laundering..."
+          }
+        },
+        {
+          "key": "summary_photo_image_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 87.02,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 9.93,
+                  "rgb": {
+                    "blue": 154,
+                    "green": 84,
+                    "red": 47
+                  }
+                },
+                {
+                  "percentage": 2.27,
+                  "rgb": {
+                    "blue": 200,
+                    "green": 166,
+                    "red": 147
+                  }
+                },
+                {
+                  "percentage": 0.71,
+                  "rgb": {
+                    "blue": 3,
+                    "green": 0,
+                    "red": 193
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 69,
+                    "green": 70,
+                    "red": 199
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "summary_photo_image_x_large",
+          "value": {
+            "image_value": {
+              "height": 394,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=png&name=2048x2048_2_exp",
+              "width": 700
+            }
+          }
+        },
+        {
+          "key": "summary_photo_image",
+          "value": {
+            "image_value": {
+              "height": 314,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=600x314",
+              "width": 600
+            }
+          }
+        },
+        {
+          "key": "photo_image_full_size_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 87.02,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 9.93,
+                  "rgb": {
+                    "blue": 154,
+                    "green": 84,
+                    "red": 47
+                  }
+                },
+                {
+                  "percentage": 2.27,
+                  "rgb": {
+                    "blue": 200,
+                    "green": 166,
+                    "red": 147
+                  }
+                },
+                {
+                  "percentage": 0.71,
+                  "rgb": {
+                    "blue": 3,
+                    "green": 0,
+                    "red": 193
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 69,
+                    "green": 70,
+                    "red": 199
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "photo_image_full_size_x_large",
+          "value": {
+            "image_value": {
+              "height": 394,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=png&name=2048x2048_2_exp",
+              "width": 700
+            }
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/hNCBVYB4YV"
+          }
+        },
+        {
+          "key": "summary_photo_image_original",
+          "value": {
+            "image_value": {
+              "height": 394,
+              "url": "https://pbs.twimg.com/card_img/1918086730131095553/qqg58djF?format=jpg&name=orig",
+              "width": 700
+            }
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "iPhone",
+            "version": "13"
+          }
+        }
+      },
+      "name": "summary_large_image",
+      "url": "https://t.co/hNCBVYB4YV",
+      "user_refs_results": [
+        {
+          "rest_id": "18856867",
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 31
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/72647502/tyler_normal.jpg"
+            },
+            "banner": {},
+            "core": {
+              "created_at": "Sun Jan 11 04:08:58 +0000 2009",
+              "name": "zerohedge",
+              "screen_name": "zerohedge"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "exclusive_tweet_following": false,
+            "identity_profile_labels_highlighted_label": {},
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {},
+            "pinned_items": {},
+            "privacy": {},
+            "private_super_following": false,
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "zerohedge.com",
+                      "expanded_url": "https://zerohedge.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/XKPaugBRRi"
+                    }
+                  ]
+                }
+              }
+            },
+            "profile_metadata": {
+              "profile_interstitial_type": "",
+              "profile_link_color": "1DA1F2"
+            },
+            "profile_translation": {
+              "translator_type_enum": "Regular"
+            },
+            "properties": {
+              "has_extended_profile": true
+            },
+            "relationship_counts": {
+              "followers": 2144510,
+              "following": 911
+            },
+            "relationship_perspectives": {},
+            "rest_id": "18856867",
+            "super_follow_eligible": false,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 24918,
+              "tweets": 579522
+            },
+            "website": {
+              "url": "https://t.co/XKPaugBRRi"
+            },
+            "verification": {
+              "is_blue_verified": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "binding_values": [
+        {
+          "key": "broadcast_url",
+          "value": {
+            "string_value": "https://twitter.com/i/broadcasts/1vAxRDpYmgDGl"
+          }
+        },
+        {
+          "key": "broadcast_width",
+          "value": {
+            "string_value": "1920"
+          }
+        },
+        {
+          "key": "broadcast_state",
+          "value": {
+            "string_value": "ENDED"
+          }
+        },
+        {
+          "key": "site",
+          "value": {
+            "scribe_key": "publisher_id",
+            "user_value": {
+              "id_str": "44196397"
+            }
+          }
+        },
+        {
+          "key": "broadcast_title",
+          "value": {
+            "string_value": "Starlink Airborne Streaming Latency Test"
+          }
+        },
+        {
+          "key": "broadcast_source",
+          "value": {
+            "string_value": "Producer"
+          }
+        },
+        {
+          "key": "broadcast_orientation",
+          "value": {
+            "string_value": "0"
+          }
+        },
+        {
+          "key": "broadcast_id",
+          "value": {
+            "string_value": "1vAxRDpYmgDGl"
+          }
+        },
+        {
+          "key": "broadcast_thumbnail_small",
+          "value": {
+            "image_value": {
+              "height": 202,
+              "url": "https://pbs.twimg.com/card_img/1918659472043495424/189QCQer?format=jpg&name=386x202",
+              "width": 386
+            }
+          }
+        },
+        {
+          "key": "broadcaster_twitter_id",
+          "value": {
+            "string_value": "44196397"
+          }
+        },
+        {
+          "key": "broadcast_height",
+          "value": {
+            "string_value": "1080"
+          }
+        },
+        {
+          "key": "broadcast_thumbnail_original",
+          "value": {
+            "image_value": {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/card_img/1918659472043495424/189QCQer?format=jpg&name=orig",
+              "width": 1920
+            }
+          }
+        },
+        {
+          "key": "broadcaster_username",
+          "value": {
+            "string_value": "elonmusk"
+          }
+        },
+        {
+          "key": "broadcast_media_key",
+          "value": {
+            "string_value": "28_1910214655274086400"
+          }
+        },
+        {
+          "key": "broadcast_thumbnail_x_large",
+          "value": {
+            "image_value": {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/card_img/1918659472043495424/189QCQer?format=png&name=2048x2048_2_exp",
+              "width": 1920
+            }
+          }
+        },
+        {
+          "key": "broadcaster_display_name",
+          "value": {
+            "string_value": "Elon Musk"
+          }
+        },
+        {
+          "key": "broadcast_is_high_latency",
+          "value": {
+            "boolean_value": true
+          }
+        },
+        {
+          "key": "broadcast_thumbnail",
+          "value": {
+            "image_value": {
+              "height": 314,
+              "url": "https://pbs.twimg.com/card_img/1918659472043495424/189QCQer?format=jpg&name=600x314",
+              "width": 600
+            }
+          }
+        },
+        {
+          "key": "broadcast_thumbnail_color",
+          "value": {
+            "image_color_value": {
+              "palette": [
+                {
+                  "percentage": 92.33,
+                  "rgb": {
+                    "blue": 46,
+                    "green": 44,
+                    "red": 43
+                  }
+                },
+                {
+                  "percentage": 4.33,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 80,
+                    "red": 65
+                  }
+                },
+                {
+                  "percentage": 1.42,
+                  "rgb": {
+                    "blue": 49,
+                    "green": 42,
+                    "red": 89
+                  }
+                },
+                {
+                  "percentage": 0.86,
+                  "rgb": {
+                    "blue": 102,
+                    "green": 96,
+                    "red": 97
+                  }
+                },
+                {
+                  "percentage": 0.54,
+                  "rgb": {
+                    "blue": 66,
+                    "green": 82,
+                    "red": 105
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "broadcast_media_id",
+          "value": {
+            "string_value": "1910214655274086400"
+          }
+        },
+        {
+          "key": "card_url",
+          "value": {
+            "scribe_key": "card_url",
+            "string_value": "https://t.co/eFvzfuQOmB"
+          }
+        },
+        {
+          "key": "broadcast_thumbnail_large",
+          "value": {
+            "image_value": {
+              "height": 419,
+              "url": "https://pbs.twimg.com/card_img/1918659472043495424/189QCQer?format=jpg&name=800x419",
+              "width": 800
+            }
+          }
+        }
+      ],
+      "card_platform": {
+        "platform": {
+          "audience": {
+            "name": "production"
+          },
+          "device": {
+            "name": "iPhone",
+            "version": "13"
+          }
+        }
+      },
+      "name": "745291183405076480:broadcast",
+      "url": "https://t.co/eFvzfuQOmB",
+      "user_refs_results": [
+        {
+          "rest_id": "44196397",
+          "result": {
+            "__typename": "User",
+            "action_counts": {
+              "favorites_count": 144019
+            },
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1893803697185910784/Na5lOWi5_normal.jpg"
+            },
+            "banner": {
+              "image_url": "https://pbs.twimg.com/profile_banners/44196397/1739948056"
+            },
+            "core": {
+              "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+              "name": "Elon Musk",
+              "screen_name": "elonmusk"
+            },
+            "dm_permissions": {
+              "can_dm": false
+            },
+            "exclusive_tweet_following": false,
+            "identity_profile_labels_highlighted_label": {
+              "label": {
+                "badge": {
+                  "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
+                },
+                "description": "X",
+                "url": {
+                  "url": "https://twitter.com/X",
+                  "url_type": "DeepLink"
+                },
+                "user_label_type": "BusinessLabel",
+                "user_label_display_type": "Badge"
+              }
+            },
+            "location": {
+              "location": ""
+            },
+            "media_permissions": {
+              "can_media_tag": false
+            },
+            "notifications_settings": {},
+            "pinned_items": {
+              "tweet_ids_str": [
+                "1918592668307010019"
+              ]
+            },
+            "privacy": {},
+            "private_super_following": false,
+            "profile_bio": {
+              "description": "",
+              "entities": {
+                "description": {}
+              }
+            },
+            "profile_metadata": {
+              "profile_interstitial_type": "",
+              "profile_link_color": "0084B4"
+            },
+            "profile_translation": {
+              "translator_type_enum": "None"
+            },
+            "properties": {
+              "has_extended_profile": true
+            },
+            "relationship_counts": {
+              "followers": 220086399,
+              "following": 1115
+            },
+            "relationship_perspectives": {},
+            "rest_id": "44196397",
+            "super_follow_eligible": true,
+            "super_followed_by": false,
+            "super_following": false,
+            "tweet_counts": {
+              "media_tweets": 3816,
+              "tweets": 77901
+            },
+            "website": {
+              "url": ""
+            },
+            "verification": {
+              "is_blue_verified": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
