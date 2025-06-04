@@ -1,3 +1,5 @@
+.idea/
 conf/config.ini
 dump/
 data/twitter/tweets.csv
+test/
