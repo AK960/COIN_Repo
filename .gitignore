@@ -3,4 +3,3 @@ conf/config.ini
 dump/
 data/twitter/tweets.csv
 utils/__pycache__/
-legacy/
